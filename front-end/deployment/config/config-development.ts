@@ -21,3 +21,4 @@ const configDevelopment = {
 };
 
 export default configDevelopment;
+
